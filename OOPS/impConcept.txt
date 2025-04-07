@@ -1,0 +1,16 @@
+ 4- pillars of OOPS:
+ (1)--> Encapsulation: wrapping up of data(properties) and methods(funtion).Also
+                       it implements data hiding.
+                       eg: class{
+                        properties + methods
+                       }
+ (2)--> Inheritance: properties and methods are passed from 
+                     paresnt class to derieved class      
+
+                    ****These are of 4 types****                 
+                    (i)  --> Single level Inheritance {BAse class to Derieved class}
+                    (ii) --> Multi level Inheritance {Base -> derieved->derieved} Animal ->Mamal->Dog
+                    (iii)--> Hierarchial Inheritance {base->other derieved classes} 
+                    (iv) --> Hybrid Inheritance {mix of all above}
+ (3)--> Polymorphism: one thing that behaves in many ways     
+ (4)--> Abstraction: hide all unnecessary data and shows the user only the important data             
